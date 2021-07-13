@@ -8,11 +8,11 @@
   line-height: 1;
 }
 .storybook-button--primary {
-  color: white;
-  background-color: green;
+  color: red;
+  background-color: black;
 }
 .storybook-button--secondary {
-  color: #333;
+  color: purple;
   background-color: transparent;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
 }
